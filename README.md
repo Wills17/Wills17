@@ -79,7 +79,6 @@ Interactive playground for mood detection using ML models. Explore and visualize
 
 - 🌐 Portfolio: [http://Wills17.github.io/Portfolio](http://Wills17.github.io/Portfolio)
 - 💼 LinkedIn: [https://linkedin.com/in/williams-odunayo](https://linkedin.com/in/williams-odunayo)
-- 🧠 GitHub: [https://github.com/Wills17](https://github.com/Wills17)
 - 📧 Email: williamsodunayo70@gmail.com
 
 ---
