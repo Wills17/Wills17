@@ -1,14 +1,15 @@
-<!-- Profile README for Williams Odunayo (Wills17) -->
 
 <h1 align="center">Hi, I'm Williams Odunayo 👋</h1>
 <h3 align="center">Machine Learning Engineer focused on building real, usable solutions.</h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=2B9EDE&center=true&vCenter=true&width=380&lines=Always+learning%2C+always+building." alt="typing-effect" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2B9EDE&center=true&vCenter=true&multiline=true&width=500&lines=Always+learning%2C+always+building." alt="typing-effect" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm Williams Odunayo, a passionate Machine Learning Engineer from Nigeria 🇳🇬. I love turning complex problems into elegant, working systems—whether it's designing, training, and deploying models, or building production-ready ML and AI solutions. My work is driven by curiosity and a desire to apply machine learning to impactful real-world domains like healthcare, climate, and security.
+I'm Williams Odunayo, a passionate Machine Learning Engineer. I love turning complex problems into elegant, working systems—whether it's designing, training, and deploying models, or building production-ready ML and AI solutions. My work is driven by curiosity and a desire to apply machine learning to impactful real-world domains like healthcare, climate, and security.
 
 - 🔍 I thrive in solving tough data challenges and transforming ideas into scalable apps.
 - 🚀 Always exploring new technologies, frameworks, and approaches.
@@ -29,7 +30,6 @@ I'm Williams Odunayo, a passionate Machine Learning Engineer from Nigeria 🇳�
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -45,7 +45,7 @@ AI-powered Retrieval-Augmented Generation (RAG) system for smart document Q&A. L
 ---
 
 ### 2. [Brain Cancer Prediction](https://github.com/Wills17/Brain-Cancer-Prediction)
-A deep learning web application for brain tumor classification from MRI scans using TensorFlow and OpenCV. Enables fast, accurate predictions for clinical support.  
+A deep learning web application for brain tumor classification from MRI scans using TensorFlow, and OpenCV. Enables fast, accurate predictions for clinical support.  
 *Tech stack:* Python, TensorFlow, OpenCV, HTML, CSS, JavaScript
 
 ---
