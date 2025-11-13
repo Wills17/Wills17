@@ -38,7 +38,7 @@ I'm Williams Odunayo, a passionate Machine Learning Engineer. I love turning com
 
 ## 🚩 Featured Projects
 
-### 1. [Document RAG System (Ask-Your-Doc)](https://github.com/Wills17/Document-RAG-System)
+### 1. [Ask-Your-Doc (Document RAG System)](https://github.com/Wills17/Document-RAG-System)
 AI-powered Retrieval-Augmented Generation (RAG) system for smart document Q&A. Leverages Hugging Face Transformers and Flask for scalable, interactive knowledge retrieval.  
 *Tech stack:* Python, Hugging Face, Flask, Jupyter Notebook, Docker, HTML, CSS, JavaScript
 
