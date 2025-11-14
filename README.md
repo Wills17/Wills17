@@ -1,3 +1,4 @@
+8
 <h1 align="center">Hi, I'm Williams Odunayo 👋</h1>
 <h3 align="center">Machine Learning Engineer building real, impactful AI solutions.</h3>
 
@@ -93,6 +94,7 @@ Interactive playground for mood detection and sentiment analysis.
   <a href="https://linkedin.com/in/williams-odunayo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </p>
+
 ---
 
 <p align="center">Thanks for visiting! Let's build something amazing 🚀</p>
