@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi, I'm Williams Odunayo 👋</h1>
-<h3 align="center">Machine Learning Engineer focused on building real, usable solutions.</h3>
+<h3 align="center">Machine Learning Engineer building real, impactful AI solutions.</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2B9EDE&center=true&vCenter=true&multiline=true&width=500&lines=Always+learning%2C+always+building." alt="typing-effect" />
 </p>
@@ -9,11 +9,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm Williams Odunayo, a passionate Machine Learning Engineer. I love turning complex problems into elegant, working systems—whether it's designing, training, and deploying models, or building production-ready ML and AI solutions. My work is driven by curiosity and a desire to apply machine learning to impactful real-world domains like healthcare, climate, and security.
+I'm Williams Odunayo, a Machine Learning Engineer passionate about **turning complex problems into production-ready AI systems**. I enjoy designing, training, and deploying models, as well as building scalable solutions for real-world applications in healthcare, climate, and security.  
 
-- 🔍 I thrive in solving tough data challenges and transforming ideas into scalable apps.
-- 🚀 Always exploring new technologies, frameworks, and approaches.
-- 🌱 Committed to continuous learning and sharing knowledge with the community.
+- Solving challenging data problems and transforming ideas into usable apps.  
+- Continuously exploring new technologies, frameworks, and methodologies.  
+- Lifelong learner and advocate for sharing knowledge with the community.  
 
 ---
 
@@ -38,36 +38,47 @@ I'm Williams Odunayo, a passionate Machine Learning Engineer. I love turning com
 
 ## 🚩 Featured Projects
 
-### 1. [Ask-Your-Doc (Document RAG System)](https://github.com/Wills17/Document-RAG-System)
-AI-powered Retrieval-Augmented Generation (RAG) system for smart document Q&A. Leverages Hugging Face Transformers and Flask for scalable, interactive knowledge retrieval.  
-*Tech stack:* Python, Hugging Face, Flask, Jupyter Notebook, Docker, HTML, CSS, JavaScript
+### 1. [Ask-Your-Doc (Document RAG System)](https://github.com/Wills17/Document-RAG-System)  
+AI-powered Retrieval-Augmented Generation (RAG) system for smart document Q&A.  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
----
+### 2. [Brain Cancer Prediction](https://github.com/Wills17/Brain-Cancer-Prediction)  
+Deep learning web app for brain tumor classification from MRI scans using **TensorFlow** and **OpenCV**.  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
 
-### 2. [Brain Cancer Prediction](https://github.com/Wills17/Brain-Cancer-Prediction)
-A deep learning web application for brain tumor classification from MRI scans using TensorFlow, and OpenCV. Enables fast, accurate predictions for clinical support.  
-*Tech stack:* Python, TensorFlow, OpenCV, HTML, CSS, JavaScript
+### 3. [Rainfall Prediction App](https://github.com/Wills17/Rainfall-Prediction)  
+Machine learning tool for weather and rainfall prediction built with **Flask** and **scikit-learn**.  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
----
-
-### 3. [Rainfall Prediction App](https://github.com/Wills17/Rainfall-Prediction)
-Machine learning powered weather and rainfall prediction tool. Built with Flask and scikit-learn, focused on climate analytics and forecasting.  
-*Tech stack:* Python, Scikit-learn, Flask, Pandas, Matplotlib, HTML
-
----
-
-### 4. [Mood Detector Playground](https://github.com/Wills17/Mood-Dectector-Playground)
-Interactive playground for mood detection using ML models. Explore and visualize sentiment analysis and emotion recognition with Jupyter Notebook and Python.  
-*Tech stack:* Jupyter Notebook, Python, HTML, CSS, JavaScript
+### 4. [Mood Detector Playground](https://github.com/Wills17/Mood-Dectector-Playground)  
+Interactive playground for mood detection and sentiment analysis.  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wills17&show_icons=true&theme=radical" alt="Williams Odunayo GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wills17&theme=radical&hide_border=true" alt="Williams Odunayo GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wills17&layout=compact&theme=radical" alt="Williams Odunayo Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wills17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wills17&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wills17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wills17&style=for-the-badge" alt="Profile views" />
@@ -77,10 +88,11 @@ Interactive playground for mood detection using ML models. Explore and visualize
 
 ## 📬 Get in Touch
 
-- 🌐 Portfolio: [http://Wills17.github.io/Portfolio](http://Wills17.github.io/Portfolio)
-- 💼 LinkedIn: [https://linkedin.com/in/williams-odunayo](https://linkedin.com/in/williams-odunayo)
-- 📧 Email: williamsodunayo70@gmail.com
+<p align="center">
+  <a href="http://Wills17.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/williams-odunayo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+</p>
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="center">Thanks for visiting! Let's build something amazing 🚀</p>
