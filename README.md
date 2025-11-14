@@ -1,4 +1,3 @@
-8
 <h1 align="center">Hi, I'm Williams Odunayo 👋</h1>
 <h3 align="center">Machine Learning Engineer building real, impactful AI solutions.</h3>
 
